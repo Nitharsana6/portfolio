@@ -33,7 +33,7 @@
 
 import React from "react";
 import { motion } from "framer-motion";
-import profile from "../assets/profile.png";
+import profile from "../assets/final pro.png";
 import "./Hero.css";
 
 const Hero = () => {

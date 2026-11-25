@@ -65,8 +65,15 @@ import chatbotImg from "../assets/Project/Techie.png";
 import eshiftImg from "../assets/Project/Eshift.png";
 import hotelImg from "../assets/Project/Hotel.png";
 import ticketImg from "../assets/Project/Ticket.png";
+import portfolioImg from "../assets/Project/portfolio.jpg";
 
 const projects = [
+  {
+  title: "Tharmika Portfolio Web",
+  desc: "A personal portfolio website showcasing my client skills, projects, experience, and professional achievements.",
+  image: portfolioImg,
+  link: "https://www.tharmika.com"
+},
   {
     title: "ResumeLinker",
     desc: "AI ATS system that analyzes resumes and matches jobs.",
