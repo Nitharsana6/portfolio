@@ -65,7 +65,7 @@ import chatbotImg from "../assets/Project/Techie.png";
 import eshiftImg from "../assets/Project/Eshift.png";
 import hotelImg from "../assets/Project/Hotel.png";
 import ticketImg from "../assets/Project/Ticket.png";
-import portfolioImg from "../assets/Project/portfolio.jpg";
+import portfolioImg from "../assets/Project/tharmi.jpg";
 
 const projects = [
   {
